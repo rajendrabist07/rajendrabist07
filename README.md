@@ -1,67 +1,48 @@
-# Hi, I'm Rajendra 👋
-
-💻 Full-Stack Web Developer (MERN Stack)
-
-I build modern web applications focused on performance,
-scalability, and clean architecture.
+<h1 align="center">Hi 👋, I'm Rajendra Bist</h1>
+<h3 align="center">Full-Stack Web Developer | MERN Stack</h3>
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 About Me
 
-Frontend:
-- HTML, CSS, JavaScript
-- React
-- Tailwind CSS
-
-Backend:
-- Node.js
-- Express.js
-
-Database:
-- MongoDB
-
-Tools:
-- Git & GitHub
-- VS Code
-- Figma
+- 🔭 Currently building real-world full-stack applications  
+- 🌱 Focused on mastering JavaScript, React, Node.js  
+- 🧠 Passionate about clean architecture & scalable systems  
+- 🎯 Goal: Turning ideas into production-ready solutions  
 
 ---
 
-## 📚 Currently Learning
+### 🛠️ Tech Stack
 
-- Advanced React Patterns
-- API Architecture
-- System Design Basics
+💻 Frontend  
+HTML | CSS | JavaScript | React | Tailwind
+
+⚙️ Backend  
+Node.js | Express.js
+
+🗄️ Database  
+MongoDB
+
+🧰 Tools  
+Git | GitHub | VS Code | Figma
 
 ---
 
-## 🎯 Goal
+### 🌐 Connect With Me
 
-To become a developer who doesn't just write code —
-but builds reliable, scalable systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajendra-bist-169926370)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajendrabist07)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FXc1WLiqS/)
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Philosophy
 
-Always open to collaboration and learning.
-## 🌐 Connect With Me
+> Code is not just written.  
+> It is designed, structured, and evolved.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajendra-bist-169926370">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-  </a>
+---
 
-  <a href="https://www.facebook.com/share/1FXc1WLiqS/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" width="30" />
-  </a>
-
-  <a href="https://www.instagram.com/rajendrabist07">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" width="30" />
-  </a>
-
-  <a href="mailto:rajendrabist396@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="30" />
-  </a>
-</p>
+⭐ Building. Learning. Improving. Every day.
