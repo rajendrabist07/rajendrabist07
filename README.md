@@ -128,6 +128,54 @@ I value **clean thinking** over noisy code, and **foundations** over trends.
 <br>
 
 <div align="center">
+  <h2>🤝 Connect With Me</h2>
+  <br>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rajendrabist07" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="100">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/rajendra-bist-169926370" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="100">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.facebook.com/share/1FXc1WLiqS" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" width="100">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.instagram.com/rajendrabist07" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" width="100">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.threads.net/@rajendrabist07" target="_blank">
+          <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" width="100">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://x.com/rajendrabi17557" target="_blank">
+          <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" width="100">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <a href="mailto:rajendrabist396@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" width="120">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <h2>🤝 Connect & Collaborate</h2>
   <p>
     I enjoy discussing how web systems actually work — beyond frameworks. If you value clean thinking, maintainability, and the craft of software, let's connect.
