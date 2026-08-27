@@ -1,10 +1,11 @@
 
 
 <div align="center">
-  <h3>Rajendra Bist — Backend Developer & AI Systems Engineer</h3>
+  <h4>Rajendra Bist — Backend Developer & AI Systems Engineer</h4>
 </div>
 
-I design systems from the data layer up — validation schemas, API boundaries, and database integrity before any client-facing flow gets written.
+I design systems from the data layer up — validation schemas, API boundaries, and database 
+integrity before any client-facing flow gets written.
 
 ---
 
