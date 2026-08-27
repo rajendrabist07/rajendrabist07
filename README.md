@@ -1,4 +1,3 @@
-### rajendrabist07 / README.md
 
 **Rajendra Bist — Backend Developer & AI Systems Engineer**
 
